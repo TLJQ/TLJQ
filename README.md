@@ -34,7 +34,7 @@ My work focuses on practical automation, system integration, and building tools 
 **Systems & Platforms**
 - macOS / Linux
 - SAP (automation workflows)
-- Cloud VPS (Oracle Free Tier, DigitalOcean)
+- Cloud VPS (DigitalOcean)
 - Virtual environments & dependency management
 
 ---
@@ -56,7 +56,7 @@ All repositories focus on **clean code**, **real-world use cases**, and **practi
 
 ## 🎯 Current Focus
 
-- Writing cleaner, more maintainable Python
+- Writing cleaner, more maintainable Python scripts
 - Backend fundamentals (APIs, async workflows)
 - Systems & cybersecurity foundations
 - Building a strong technical portfolio for career progression
